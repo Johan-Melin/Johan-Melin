@@ -2,6 +2,8 @@
 
 I am a frontend developer creating websites and apps using mostly React and React-Native.
 
+ ![<Badge Name>](https://github-readme-stats.vercel.app/api?username=Johan-Melin&theme=blue-green)
+ 
 My social links:
 
 <a href="https://www.facebook.com/groups/productivecoder">![<Badge Name>](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
