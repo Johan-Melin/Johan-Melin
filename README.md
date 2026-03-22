@@ -17,6 +17,7 @@
 - 💻 [NextOS](https://github.com/Johan-Melin/next-os) - Next.js responsive template for OS inspired websites
 
 ### 🛠️ Personal Tools
+- 📚 [LangBooks](https://github.com/Johan-Melin/lang-books) - Track your vocabulary, see how much of any text you already know
 - ⚖️ [Weight & Waist](https://github.com/Johan-Melin/weight-waist) - Track your weight and waist measurements over time
 - 💌 [Friend Reminder](https://github.com/Johan-Melin/friend-reminder) - Reminders to reach out to the people that matter
 
